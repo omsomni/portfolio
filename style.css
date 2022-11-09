@@ -15,7 +15,7 @@ body {
     background: #c5c4bfad;
     color: #fff;
     padding: 0 8.5%;
-    position: absolute;
+    position: fixed;
     top: 0;
 }
 
